@@ -43,4 +43,4 @@ jobs:
       - name: Commit changes
         run: |
           git add recipes/recipes.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update recipes.json" && git push)
+          git commit -m "Update recipes.json" && git push origin HEAD
