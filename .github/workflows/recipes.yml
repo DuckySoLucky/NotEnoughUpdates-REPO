@@ -42,5 +42,9 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add recipes/recipes.json
-          git commit -m "Update recipes.json" && git push origin HEAD
+          if [[ `git status --porcelain` ]]; then
+            git add recipes/recipes.json
+            git commit -m "Update recipes.json" && git push origin HEAD
+          else
+            echo "No changes to commit"
+          fi
