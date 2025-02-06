@@ -1,0 +1,46 @@
+name: Update Recipes
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-recipes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote add upstream https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO.git
+
+      - name: Sync with upstream
+        run: |
+          git fetch upstream
+          git merge upstream/master --no-edit
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+        working-directory: ./scripts
+
+      - name: Run script
+        run: bun update-recipes
+        working-directory: ./scripts
+
+      - name: Commit changes
+        run: |
+          git add recipes/recipes.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update recipes.json" && git push)
