@@ -3805,6 +3805,20 @@
       "count": 1
     }
   ],
+  "CLAY_GENERATOR_12": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "CLAY_GENERATOR_11:1",
+      "B3": "",
+      "C1": "",
+      "C2": "GENERATOR_UPGRADE_STONE_CLAY_12:1",
+      "C3": "",
+      "count": 1
+    }
+  ],
   "CLAY_GENERATOR_2": [
     {
       "A1": "CLAY_BALL:20",
@@ -6909,6 +6923,20 @@
       "B3": "CLAY_BALL:32",
       "C1": "",
       "C2": "CLAY_BALL:32",
+      "C3": "",
+      "count": 1
+    }
+  ],
+  "ENCHANTED_CLAY_BLOCK": [
+    {
+      "A1": "",
+      "A2": "ENCHANTED_CLAY_BALL:32",
+      "A3": "",
+      "B1": "ENCHANTED_CLAY_BALL:32",
+      "B2": "ENCHANTED_CLAY_BALL:32",
+      "B3": "ENCHANTED_CLAY_BALL:32",
+      "C1": "",
+      "C2": "ENCHANTED_CLAY_BALL:32",
       "C3": "",
       "count": 1
     }
@@ -10074,6 +10102,20 @@
       "C1": "ENCHANTED_COOKED_FISH:1",
       "C2": "ENCHANTED_COOKED_FISH:1",
       "C3": "ENCHANTED_COOKED_FISH:1",
+      "count": 1
+    }
+  ],
+  "FISHING_GENERATOR_12": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "FISHING_GENERATOR_11:1",
+      "B3": "",
+      "C1": "",
+      "C2": "GENERATOR_UPGRADE_STONE_FISHING_12:1",
+      "C3": "",
       "count": 1
     }
   ],
