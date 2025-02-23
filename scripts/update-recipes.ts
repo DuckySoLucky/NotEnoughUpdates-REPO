@@ -39,15 +39,13 @@ for (const item of items) {
       name: itemData.displayname.replace(/§./g, ""),
       recipe: {
         ...itemData.recipe,
-        count: parseInt(itemData.recipe.count ?? 1) ?? 1,
+        count: parseInt(itemData.recipe.count ?? 1) ?? 1
       },
-      wiki: itemData.info,
+      wiki: itemData.info
     };
   }
 
-  const foundRecipes = itemData.recipes?.filter(
-    (recipe: { type: string; }) => recipe?.type === "npc_shop"
-  );
+  const foundRecipes = itemData.recipes?.filter((recipe: { type: string }) => recipe?.type === "npc_shop");
   if (foundRecipes && foundRecipes.length) {
     for (const recipe of foundRecipes) {
       const newRecipe = formatRecipes(recipe.cost);
@@ -58,14 +56,12 @@ for (const item of items) {
       output[id] = {
         name: itemData?.displayname.replace(/§./g, ""),
         recipe: { ...newRecipe, count: parseInt(amount ?? 1) ?? 1 },
-        wiki: itemData?.info,
+        wiki: itemData?.info
       };
     }
   }
 }
 
-const sorted = Object.fromEntries(
-  Object.entries(output).sort(([a], [b]) => a.localeCompare(b))
-);
+const sorted = Object.fromEntries(Object.entries(output).sort(([a], [b]) => a.localeCompare(b)));
 
 await Bun.write("../recipes/recipes.json", JSON.stringify(sorted, null, 2));
