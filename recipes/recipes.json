@@ -1213,6 +1213,25 @@
       "https://wiki.hypixel.net/Anti-Morph_Potion"
     ]
   },
+  "ANTI_SENTIENT_PICKAXE:1": {
+    "name": "§5Anti-Sentient Pickaxe",
+    "recipe": {
+      "A1": "SKYBLOCK_MOTE;24999",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Anti-Sentient_Pickaxe",
+      "https://wiki.hypixel.net/Anti-Sentient_Pickaxe"
+    ]
+  },
   "ANVIL": {
     "name": "§fAnvil",
     "recipe": {
