@@ -3836,6 +3836,25 @@
       "https://wiki.hypixel.net/Blood_Donor_Talisman"
     ]
   },
+  "BLOOD_GOD_CREST:1": {
+    "name": "§fBlood God Crest",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;1000000",
+      "B1": "ENCHANTED_PORK;32",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Blood_God_Crest",
+      "https://wiki.hypixel.net/Blood_God_Crest"
+    ]
+  },
   "BLOOD_SOAKED_COINS": {
     "name": "§5Blood-Soaked Coins",
     "recipe": {
@@ -9035,6 +9054,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Travel_Scroll_to_the_End",
       "https://wiki.hypixel.net/Travel_Scroll_To_The_End"
+    ]
+  },
+  "DANTE_RING:1": {
+    "name": "§fDante Ring",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;2000000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Dante_Ring",
+      "https://wiki.hypixel.net/Dante_Ring"
     ]
   },
   "DARK_BAIT": {
@@ -39095,6 +39133,25 @@
       "https://wiki.hypixel.net/Shimmering_Light_Tunic"
     ]
   },
+  "SHINY_ORB:1": {
+    "name": "§6Shiny Orb",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;5000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Shiny_Orb",
+      "https://wiki.hypixel.net/Shiny_Orb"
+    ]
+  },
   "SHINY_PRISM": {
     "name": "§9Shiny Prism",
     "recipe": {
@@ -46271,6 +46328,25 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Tessellated_Ender_Pearl",
       "https://wiki.hypixel.net/Tessellated_Ender_Pearl"
+    ]
+  },
+  "THE_ART_OF_WAR:1": {
+    "name": "§6The Art of War",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;7500000",
+      "B1": "ENCHANTED_GRILLED_PORK;2",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/The_Art_of_War",
+      "https://wiki.hypixel.net/The_Art_Of_War"
     ]
   },
   "THEORETICAL_HOE": {
