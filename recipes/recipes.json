@@ -48702,24 +48702,6 @@
       "https://wiki.hypixel.net/Werewolf_Leggings"
     ]
   },
-  "WHALE_BAIT": {
-    "name": "§9Whale Bait",
-    "recipe": {
-      "A1": "FISH_BAIT;1",
-      "B1": "LIGHT_BAIT;1",
-      "C1": "",
-      "A2": "DARK_BAIT;1",
-      "B2": "BLESSED_BAIT;1",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Fishing_Bait",
-      "https://wiki.hypixel.net/Whale_Bait"
-    ]
-  },
   "WHEAT": {
     "name": "§fWheat",
     "recipe": {
