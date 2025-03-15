@@ -26312,24 +26312,6 @@
       "https://wiki.hypixel.net/Magma_Cube_Minion_IX"
     ]
   },
-  "MAGMA_CUBE_HEAD": {
-    "name": "§fMagma Cube Head",
-    "recipe": {
-      "A1": "MAGMA_CREAM;1",
-      "B1": "MAGMA_CREAM;1",
-      "C1": "MAGMA_CREAM;1",
-      "A2": "MAGMA_CREAM;1",
-      "B2": "",
-      "C2": "MAGMA_CREAM;1",
-      "A3": "MAGMA_CREAM;1",
-      "B3": "MAGMA_CREAM;1",
-      "C3": "MAGMA_CREAM;1"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Head",
-      "https://wiki.hypixel.net/Magma_Cube_Head"
-    ]
-  },
   "MAGMA_FISH_DIAMOND": {
     "name": "§dDiamond Magmafish",
     "recipe": {
