@@ -6016,7 +6016,11 @@
       "A3": "TOKEN_OF_THE_CENTURY;1",
       "B3": "TOKEN_OF_THE_CENTURY;1",
       "C3": "TOKEN_OF_THE_CENTURY;1"
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Ring_of_the_Century",
+      "https://wiki.hypixel.net/Ring_Of_The_Century"
+    ]
   },
   "CHAINMAIL_BOOTS": {
     "name": "§aChainmail Boots",
@@ -6806,7 +6810,10 @@
       "A3": "",
       "B3": "GENERATOR_UPGRADE_STONE_CLAY_12;1",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
+    ]
   },
   "CLAY_GENERATOR_2": {
     "name": "§9Clay Minion II",
@@ -11719,7 +11726,11 @@
       "A3": "",
       "B3": "ENCHANTED_CLAY_BALL;32",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Clay_Block",
+      "https://wiki.hypixel.net/Enchanted_Clay_Block"
+    ]
   },
   "ENCHANTED_CLOWNFISH": {
     "name": "§aEnchanted Clownfish",
@@ -15861,7 +15872,10 @@
       "A3": "",
       "B3": "GENERATOR_UPGRADE_STONE_FISHING_12;1",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Fishing_Minion"
+    ]
   },
   "FISHING_GENERATOR_2": {
     "name": "§9Fishing Minion II",
@@ -17096,7 +17110,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Frozen_Amulet",
+      "https://wiki.hypixel.net/Frozen_Amulet"
+    ]
   },
   "FROZEN_BAUBLE:1": {
     "name": "§5Frozen Bauble",
@@ -17436,7 +17454,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
+    ]
   },
   "GENERATOR_UPGRADE_STONE_FISHING_12:1": {
     "name": "§6Fishing Minion XII Upgrade Stone",
@@ -17451,7 +17472,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Fishing_Minion"
+    ]
   },
   "GHAST_CLOAK": {
     "name": "§9Ghast Cloak",
@@ -19214,6 +19238,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Grandma%27s_Knitting_Needle",
       "https://wiki.hypixel.net/Grandma%27s_Knitting_Needle"
     ]
   },
@@ -28041,7 +28066,10 @@
       "A3": "MIRRORED_STRING;1",
       "B3": "",
       "C3": "MIRRORED_STICK;1"
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Dor_Gnihsif"
+    ]
   },
   "MIRRORED_LEASH": {
     "name": "§fdaeL",
@@ -31884,7 +31912,7 @@
       "C3": "EMERALD;64"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Personal_Bank",
+      "https://hypixel-skyblock.fandom.com/wiki/Personal_Bank_Item",
       "https://wiki.hypixel.net/Personal_Bank_Item"
     ]
   },
@@ -32047,8 +32075,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Pest_Repellent_MAX",
-      "https://wiki.hypixel.net/Pest_Repellent_MAX"
+      "https://hypixel-skyblock.fandom.com/wiki/Pest_Repellent_Max",
+      "https://wiki.hypixel.net/Pest_Repellent_Max"
     ]
   },
   "PEST_REPELLENT:1": {
@@ -32198,6 +32226,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/A_Beginner%27s_Guide_to_Pesthunting",
       "https://wiki.hypixel.net/A_Beginner%27s_Guide_To_Pesthunting"
     ]
   },
@@ -32572,7 +32601,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Jake",
+      "https://hypixel-skyblock.fandom.com/wiki/Pig_Axe",
       "https://wiki.hypixel.net/Pig_Axe"
     ]
   },
@@ -33728,6 +33757,7 @@
       "C3": "ENCHANTED_DARK_OAK_LOG;16"
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Presumed_Gallon_of_Red_Paint",
       "https://wiki.hypixel.net/Presumed_Gallon_Of_Red_Paint"
     ]
   },
@@ -34842,7 +34872,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Jake",
+      "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Axe",
       "https://wiki.hypixel.net/Rabbit_Axe"
     ]
   },
@@ -36293,8 +36323,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Refined_Amber",
-      "https://wiki.hypixel.net/Refined_Amber"
+      "https://hypixel-skyblock.fandom.com/wiki/Andesite_Whetstone",
+      "https://wiki.hypixel.net/Andesite_Whetstone"
     ]
   },
   "REFINED_MITHRIL_PICKAXE": {
@@ -36331,8 +36361,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Refined_Titanium_Pickaxe",
-      "https://wiki.hypixel.net/Refined_Titanium_Pickaxe"
+      "https://hypixel-skyblock.fandom.com/wiki/Polished_Titanium_Pickaxe",
+      "https://wiki.hypixel.net/Polished_Titanium_Pickaxe"
     ]
   },
   "REFORGE_ANVIL": {
@@ -36405,7 +36435,7 @@
       "count": 64
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Arrows",
+      "https://hypixel-skyblock.fandom.com/wiki/Reinforced_Iron_Arrow",
       "https://wiki.hypixel.net/Reinforced_Iron_Arrow"
     ]
   },
@@ -36513,6 +36543,7 @@
       "C3": ""
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Relic_of_Coins",
       "https://wiki.hypixel.net/Relic_Of_Coins"
     ]
   },
@@ -37181,6 +37212,7 @@
       "C3": ""
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Ring_of_Coins",
       "https://wiki.hypixel.net/Ring_Of_Coins"
     ]
   },
@@ -37235,7 +37267,7 @@
       "C3": "ENCHANTED_SHARK_FIN;1"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Rod_of_the_Sea",
+      "https://hypixel-skyblock.fandom.com/wiki/Rod_Of_The_Sea",
       "https://wiki.hypixel.net/Rod_Of_The_Sea"
     ]
   },
@@ -37253,7 +37285,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Biome_Stick",
+      "https://hypixel-skyblock.fandom.com/wiki/Roofed_Forest_Biome_Stick",
       "https://wiki.hypixel.net/Roofed_Forest_Biome_Stick"
     ]
   },
@@ -37527,7 +37559,11 @@
       "A3": "",
       "B3": "S_LOGO_FRAGMENT;1",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/W_Logo",
+      "https://wiki.hypixel.net/W_Logo"
+    ]
   },
   "SALMON_BOOTS_NEW": {
     "name": "§9Salmon Boots",
@@ -37994,7 +38030,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Biome_Stick",
+      "https://hypixel-skyblock.fandom.com/wiki/Savanna_Biome_Stick",
       "https://wiki.hypixel.net/Savanna_Biome_Stick"
     ]
   },
@@ -38400,7 +38436,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Seal_Ring",
+      "https://wiki.hypixel.net/Seal_Ring"
+    ]
   },
   "SEAL_TALISMAN:1": {
     "name": "§aSeal Talisman",
@@ -38415,7 +38455,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Seal_Talisman",
+      "https://wiki.hypixel.net/Seal_Talisman"
+    ]
   },
   "SEAL_TREAT_BAG:1": {
     "name": "§aSeal's Treat Bag",
@@ -38430,7 +38474,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Seal%27s_Treat_Bag",
+      "https://wiki.hypixel.net/Seal%27s_Treat_Bag"
+    ]
   },
   "SEARING_STONE": {
     "name": "§9Searing Stone",
@@ -38538,7 +38586,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Fishing_Bait",
+      "https://hypixel-skyblock.fandom.com/wiki/Shark_Bait",
       "https://wiki.hypixel.net/Shark_Bait"
     ]
   },
@@ -38664,7 +38712,8 @@
       "C3": "CRUXMOTION;1"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Super_Sharp_%27n_Stabby_Steak_Stake"
+      "https://hypixel-skyblock.fandom.com/wiki/Super_Sharp_%27n_Stabby_Steak_Stake",
+      "https://wiki.hypixel.net/Super_Sharp_%27n_Stabby_Steak_Stake"
     ]
   },
   "SHARPNESS": {
@@ -38714,7 +38763,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Jake",
+      "https://hypixel-skyblock.fandom.com/wiki/Sheep_Axe",
       "https://wiki.hypixel.net/Sheep_Axe"
     ]
   },
@@ -39040,6 +39089,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Shen%27s_Ringalia",
       "https://wiki.hypixel.net/Shen%27s_Ringalia"
     ]
   },
@@ -39309,7 +39359,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Silkrider_Safety_Belt"
+      "https://hypixel-skyblock.fandom.com/wiki/Silkrider_Safety_Belt",
+      "https://wiki.hypixel.net/Silkrider_Safety_Belt"
     ]
   },
   "SILKWIRE_STICK": {
@@ -39458,7 +39509,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Silver_Trophy_Fishing_Sack"
+      "https://hypixel-skyblock.fandom.com/wiki/Silver_Trophy_Fishing_Sack",
+      "https://wiki.hypixel.net/Silver_Trophy_Fishing_Sack"
     ]
   },
   "SILVERFISH;0": {
@@ -40436,7 +40488,7 @@
       "C3": "ENCHANTED_WHEAT;16"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Agronomy_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Agronomy_Sack",
       "https://wiki.hypixel.net/Small_Agronomy_Sack"
     ]
   },
@@ -40454,7 +40506,7 @@
       "C3": "LEATHER;10"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Backpack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Backpack",
       "https://wiki.hypixel.net/Small_Backpack"
     ]
   },
@@ -40472,7 +40524,7 @@
       "C3": "ENCHANTED_ROTTEN_FLESH;2"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Combat_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Combat_Sack",
       "https://wiki.hypixel.net/Small_Combat_Sack"
     ]
   },
@@ -40526,7 +40578,7 @@
       "C3": "ENCHANTED_PUFFERFISH;2"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Fishing_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Fishing_Sack",
       "https://wiki.hypixel.net/Small_Fishing_Sack"
     ]
   },
@@ -40544,7 +40596,7 @@
       "C3": "ENCHANTED_BIRCH_LOG;2"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Foraging_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Foraging_Sack",
       "https://wiki.hypixel.net/Small_Foraging_Sack"
     ]
   },
@@ -40562,7 +40614,7 @@
       "C3": "ROUGH_RUBY_GEM;10"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Gemstone_Sack",
       "https://wiki.hypixel.net/Small_Gemstone_Sack"
     ]
   },
@@ -40580,7 +40632,7 @@
       "C3": "ENCHANTED_MUTTON;2"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Husbandry_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Husbandry_Sack",
       "https://wiki.hypixel.net/Small_Husbandry_Sack"
     ]
   },
@@ -40598,7 +40650,7 @@
       "C3": "MAGMA_FISH_SILVER;1"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Lava_Fishing_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Lava_Fishing_Sack",
       "https://wiki.hypixel.net/Small_Lava_Fishing_Sack"
     ]
   },
@@ -40616,7 +40668,7 @@
       "C3": "ENCHANTED_COAL;2"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Mining_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Mining_Sack",
       "https://wiki.hypixel.net/Small_Mining_Sack"
     ]
   },
@@ -40634,7 +40686,7 @@
       "C3": "ENCHANTED_SULPHUR;1"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Nether_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Nether_Sack",
       "https://wiki.hypixel.net/Small_Nether_Sack"
     ]
   },
@@ -40652,7 +40704,7 @@
       "C3": "REVENANT_VISCERA;1"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Slayer_Sack",
+      "https://hypixel-skyblock.fandom.com/wiki/Small_Slayer_Sack",
       "https://wiki.hypixel.net/Small_Slayer_Sack"
     ]
   },
@@ -40685,7 +40737,7 @@
       "C3": "MOLTEN_POWDER;3"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls",
+      "https://hypixel-skyblock.fandom.com/wiki/Travel_Scroll_to_the_Smoldering_Tomb",
       "https://wiki.hypixel.net/Travel_Scroll_To_The_Smoldering_Tomb"
     ]
   },
@@ -41733,7 +41785,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Mixins",
+      "https://hypixel-skyblock.fandom.com/wiki/Spider_Egg_Mixin",
       "https://wiki.hypixel.net/Spider_Egg_Mixin"
     ]
   },
@@ -42148,7 +42200,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Fishing_Bait",
+      "https://hypixel-skyblock.fandom.com/wiki/Spiked_Bait",
       "https://wiki.hypixel.net/Spiked_Bait"
     ]
   },
@@ -42274,7 +42326,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Fishing_Bait",
+      "https://hypixel-skyblock.fandom.com/wiki/Spooky_Bait",
       "https://wiki.hypixel.net/Spooky_Bait"
     ]
   },
@@ -44210,7 +44262,7 @@
       "C3": "WINTER_FRAGMENT;1"
     },
     "wiki": [
-      "https://wiki.hypixel.net/Yeti_Sword"
+      "https://wiki.hypixel.net/⚚_Yeti_Sword"
     ]
   },
   "STARTER_LAVA_ROD:1.0": {
@@ -45577,7 +45629,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Biome_Stick",
+      "https://hypixel-skyblock.fandom.com/wiki/Taiga_Biome_Stick",
       "https://wiki.hypixel.net/Taiga_Biome_Stick"
     ]
   },
@@ -45596,7 +45648,8 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Talbot%27s_Theodolite"
+      "https://hypixel-skyblock.fandom.com/wiki/Talbot%27s_Theodolite",
+      "https://wiki.hypixel.net/Talbot%27s_Theodolite"
     ]
   },
   "TALISMAN_ENRICHMENT_ATTACK_SPEED": {
@@ -45804,7 +45857,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Enrichments",
+      "https://hypixel-skyblock.fandom.com/wiki/Accessory_Enrichment_Swapper",
       "https://wiki.hypixel.net/Accessory_Enrichment_Swapper"
     ]
   },
@@ -46255,7 +46308,11 @@
       "A3": "ENCHANTED_RED_SAND_CUBE;1",
       "B3": "ENCHANTED_MYCELIUM_CUBE;1",
       "C3": "ENCHANTED_RED_SAND_CUBE;1"
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Tera_Shell_Necklace",
+      "https://wiki.hypixel.net/Tera_Shell_Necklace"
+    ]
   },
   "TERMINATOR": {
     "name": "§6Terminator",
@@ -46327,7 +46384,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/The_Art_of_War",
+      "https://hypixel-skyblock.fandom.com/wiki/The_Art_Of_War",
       "https://wiki.hypixel.net/The_Art_Of_War"
     ]
   },
@@ -46846,7 +46903,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://wiki.hypixel.net/remmaH_YniT"
+      "https://wiki.hypixel.net/Remmah_Ynit"
     ]
   },
   "TITANIC_EXP_BOTTLE": {
@@ -47090,6 +47147,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Travel_Scroll_to_the_Trapper%27s_Den",
       "https://wiki.hypixel.net/Travel_Scroll_To_The_Trapper%27s_Den"
     ]
   },
@@ -47301,7 +47359,11 @@
       "A3": "",
       "B3": "UGLY_BOOTS_FRAGMENT;1",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Ugly_Boots",
+      "https://wiki.hypixel.net/Ugly_Boots"
+    ]
   },
   "ULTIMATE_BOBBIN_TIME;3": {
     "name": "§fEnchanted Book",
@@ -48049,7 +48111,7 @@
       "C3": "RAW_SOULFLOW;16"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls",
+      "https://hypixel-skyblock.fandom.com/wiki/Travel_Scroll_to_the_Void_Sepulture",
       "https://wiki.hypixel.net/Travel_Scroll_To_The_Void_Sepulture"
     ]
   },
@@ -48427,6 +48489,7 @@
       "C3": ""
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Wand_of_Strength",
       "https://wiki.hypixel.net/Wand_Of_Strength"
     ]
   },
@@ -48460,7 +48523,11 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Warm_Wizard_Face",
+      "https://wiki.hypixel.net/Warm_Wizard_Face"
+    ]
   },
   "WARM_WIZARD_FACE_2": {
     "name": "§dWarmer Wizard Face",
@@ -48474,7 +48541,11 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Warmer_Wizard_Face",
+      "https://wiki.hypixel.net/Warmer_Wizard_Face"
+    ]
   },
   "WARNING_FLARE": {
     "name": "§aWarning Flare",
@@ -49314,7 +49385,11 @@
       "A3": "",
       "B3": "TIGHT_PANTS_FRAGMENT;1",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Wizardman_Leggings",
+      "https://wiki.hypixel.net/Wizardman_Leggings"
+    ]
   },
   "WOLF_FUR_MIXIN": {
     "name": "§9Wolf Fur Mixin",
@@ -49331,7 +49406,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Mixins",
+      "https://hypixel-skyblock.fandom.com/wiki/Wolf_Fur_Mixin",
       "https://wiki.hypixel.net/Wolf_Fur_Mixin"
     ]
   },
@@ -50192,7 +50267,7 @@
       "C3": ""
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Minion_Chests",
+      "https://hypixel-skyblock.fandom.com/wiki/X-Large_Storage",
       "https://wiki.hypixel.net/X-Large_Storage"
     ]
   },
@@ -50392,7 +50467,7 @@
       "count": 1
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Mixins",
+      "https://hypixel-skyblock.fandom.com/wiki/Zombie_Brain_Mixin",
       "https://wiki.hypixel.net/Zombie_Brain_Mixin"
     ]
   },
@@ -50844,7 +50919,7 @@
       "C3": "ENCHANTED_ROTTEN_FLESH;16"
     },
     "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Zombie",
+      "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet",
       "https://wiki.hypixel.net/Zombie_Pet"
     ]
   },
@@ -50863,6 +50938,7 @@
       "count": 1
     },
     "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Zoop_the_Fish",
       "https://wiki.hypixel.net/Zoop_The_Fish"
     ]
   }
