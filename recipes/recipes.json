@@ -1011,77 +1011,141 @@
       "https://wiki.hypixel.net/Ancient_Cloak"
     ]
   },
-  "ANGLER_BOOTS": {
-    "name": "§fAngler Boots",
+  "ANGLER_BELT:1": {
+    "name": "§fAngler Belt",
     "recipe": {
-      "A1": "",
+      "A1": "SKYBLOCK_COIN;100",
       "B1": "",
       "C1": "",
-      "A2": "RAW_FISH;1",
+      "A2": "",
       "B2": "",
-      "C2": "RAW_FISH;1",
-      "A3": "RAW_FISH;1",
+      "C2": "",
+      "A3": "",
       "B3": "",
-      "C3": "RAW_FISH;1"
+      "C3": "",
+      "count": 1
+    }
+  },
+  "ANGLER_BOOTS:1": {
+    "name": "§fAngler Boots",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Angler_Boots",
       "https://wiki.hypixel.net/Angler_Boots"
     ]
   },
-  "ANGLER_CHESTPLATE": {
+  "ANGLER_BRACELET:1": {
+    "name": "§fAngler Bracelet",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "ANGLER_CHESTPLATE:1": {
     "name": "§fAngler Chestplate",
     "recipe": {
-      "A1": "RAW_FISH;1",
+      "A1": "SKYBLOCK_COIN;100",
       "B1": "",
-      "C1": "RAW_FISH;1",
-      "A2": "RAW_FISH;1",
-      "B2": "RAW_FISH;1",
-      "C2": "RAW_FISH;1",
-      "A3": "RAW_FISH;1",
-      "B3": "RAW_FISH;1",
-      "C3": "RAW_FISH;1"
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Angler_Chestplate",
       "https://wiki.hypixel.net/Angler_Chestplate"
     ]
   },
-  "ANGLER_HELMET": {
-    "name": "§fAngler Helmet",
+  "ANGLER_CLOAK:1": {
+    "name": "§fAngler Cloak",
     "recipe": {
-      "A1": "RAW_FISH;1",
-      "B1": "RAW_FISH;1",
-      "C1": "RAW_FISH;1",
-      "A2": "RAW_FISH;1",
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
       "B2": "",
-      "C2": "RAW_FISH;1",
+      "C2": "",
       "A3": "",
       "B3": "",
-      "C3": ""
+      "C3": "",
+      "count": 1
+    }
+  },
+  "ANGLER_HELMET:1": {
+    "name": "§fAngler Helmet",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Angler_Helmet",
       "https://wiki.hypixel.net/Angler_Helmet"
     ]
   },
-  "ANGLER_LEGGINGS": {
+  "ANGLER_LEGGINGS:1": {
     "name": "§fAngler Leggings",
     "recipe": {
-      "A1": "RAW_FISH;1",
-      "B1": "RAW_FISH;1",
-      "C1": "RAW_FISH;1",
-      "A2": "RAW_FISH;1",
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
       "B2": "",
-      "C2": "RAW_FISH;1",
-      "A3": "RAW_FISH;1",
+      "C2": "",
+      "A3": "",
       "B3": "",
-      "C3": "RAW_FISH;1"
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Angler_Leggings",
       "https://wiki.hypixel.net/Angler_Leggings"
     ]
+  },
+  "ANGLER_NECKLACE:1": {
+    "name": "§fAngler Necklace",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
   },
   "ANITA_ARTIFACT": {
     "name": "§9Anita's Artifact",
@@ -1838,6 +1902,126 @@
       "https://wiki.hypixel.net/Axe_Of_The_Shredded"
     ]
   },
+  "BACKWATER_BELT:1": {
+    "name": "§aBackwater Belt",
+    "recipe": {
+      "A1": "ANGLER_BELT;1",
+      "B1": "RUSTY_COIN;8",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BACKWATER_BOOTS:1": {
+    "name": "§aBackwater Boots",
+    "recipe": {
+      "A1": "ANGLER_BOOTS;1",
+      "B1": "RUSTY_COIN;12",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BACKWATER_CHESTPLATE:1": {
+    "name": "§aBackwater Chestplate",
+    "recipe": {
+      "A1": "ANGLER_CHESTPLATE;1",
+      "B1": "RUSTY_COIN;12",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BACKWATER_CLOAK:1": {
+    "name": "§aBackwater Cloak",
+    "recipe": {
+      "A1": "ANGLER_CLOAK;1",
+      "B1": "RUSTY_COIN;8",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BACKWATER_GLOVES:1": {
+    "name": "§aBackwater Gloves",
+    "recipe": {
+      "A1": "ANGLER_BRACELET;1",
+      "B1": "RUSTY_COIN;8",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BACKWATER_HELMET:1": {
+    "name": "§aBackwater Helmet",
+    "recipe": {
+      "A1": "ANGLER_HELMET;1",
+      "B1": "RUSTY_COIN;12",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BACKWATER_LEGGINGS:1": {
+    "name": "§aBackwater Leggings",
+    "recipe": {
+      "A1": "ANGLER_LEGGINGS;1",
+      "B1": "RUSTY_COIN;12",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BACKWATER_NECKLACE:1": {
+    "name": "§aBackwater Necklace",
+    "recipe": {
+      "A1": "ANGLER_NECKLACE;1",
+      "B1": "RUSTY_COIN;8",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
   "BAIT_RING": {
     "name": "§9Bait Ring",
     "recipe": {
@@ -2525,6 +2709,35 @@
       "https://hypixel-skyblock.fandom.com/wiki/Bat_Pet",
       "https://wiki.hypixel.net/Bat_Pet"
     ]
+  },
+  "BAYOU_TRAVEL_SCROLL:1": {
+    "name": "§9Travel Scroll to the Bayou",
+    "recipe": {
+      "A1": "BUSTED_BELT_BUCKLE;8",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BAYOU_WATER_ORB": {
+    "name": "§6Bayou Water Orb",
+    "recipe": {
+      "A1": "BUSTED_BELT_BUCKLE;8",
+      "B1": "OLD_LEATHER_BOOT;1",
+      "C1": "ALLIGATOR_SKIN;8",
+      "A2": "BRONZE_BOWL;16",
+      "B2": "WATER_ORB;1",
+      "C2": "TORN_CLOTH;16",
+      "A3": "ENCHANTED_CLAY_BLOCK;1",
+      "B3": "RUSTY_COIN;64",
+      "C3": "POISON_SAMPLE;1"
+    }
   },
   "BEACON_1": {
     "name": "§9Beacon I",
@@ -3947,6 +4160,20 @@
       "https://wiki.hypixel.net/Blue_Whale_Pet"
     ]
   },
+  "BLUERTOOTH_RING": {
+    "name": "§5Bluertooth Ring",
+    "recipe": {
+      "A1": "BLUE_RING;32",
+      "B1": "GOBLIN_EGG_BLUE;1",
+      "C1": "BLUE_RING;32",
+      "A2": "BLUE_SHARK_TOOTH;8",
+      "B2": "BLUETOOTH_RING;1",
+      "C2": "BLUE_SHARK_TOOTH;8",
+      "A3": "BLUE_RING;32",
+      "B3": "GOBLIN_EGG_BLUE;1",
+      "C3": "BLUE_RING;32"
+    }
+  },
   "BLUETOOTH_RING": {
     "name": "§9Bluetooth Ring",
     "recipe": {
@@ -4400,6 +4627,49 @@
       "https://hypixel-skyblock.fandom.com/wiki/Bronze_Hunter_Leggings",
       "https://wiki.hypixel.net/Bronze_Hunter_Leggings"
     ]
+  },
+  "BRONZE_SHIP_ENGINE:1": {
+    "name": "§9Bronze Ship Engine",
+    "recipe": {
+      "A1": "RUSTY_COIN;64",
+      "B1": "BUSTED_BELT_BUCKLE;8",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "BRONZE_SHIP_HELM": {
+    "name": "§9Bronze Ship Helm",
+    "recipe": {
+      "A1": "",
+      "B1": "BRONZE_BOWL;1",
+      "C1": "",
+      "A2": "BRONZE_BOWL;1",
+      "B2": "LOG_2:1;64",
+      "C2": "BRONZE_BOWL;1",
+      "A3": "",
+      "B3": "BRONZE_BOWL;1",
+      "C3": ""
+    }
+  },
+  "BRONZE_SHIP_HULL": {
+    "name": "§9Bronze Ship Hull",
+    "recipe": {
+      "A1": "",
+      "B1": "",
+      "C1": "",
+      "A2": "TORN_CLOTH;1",
+      "B2": "TORN_CLOTH;1",
+      "C2": "TORN_CLOTH;1",
+      "A3": "BRONZE_BOWL;1",
+      "B3": "BRONZE_BOWL;1",
+      "C3": "BRONZE_BOWL;1"
+    }
   },
   "BRONZE_TROPHY_FISHING_SACK:1.0": {
     "name": "§aBronze Trophy Fishing Sack",
@@ -6095,7 +6365,7 @@
     ]
   },
   "CHALLENGE_ROD": {
-    "name": "§9Challenging Rod",
+    "name": "§aChallenging Rod",
     "recipe": {
       "A1": "WATER_LILY;64",
       "B1": "WATER_LILY;64",
@@ -6106,6 +6376,25 @@
       "A3": "WATER_LILY;64",
       "B3": "WATER_LILY;64",
       "C3": "WATER_LILY;64"
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Challenging_Rod",
+      "https://wiki.hypixel.net/Challenging_Rod"
+    ]
+  },
+  "CHALLENGE_ROD:1": {
+    "name": "§aChallenging Rod",
+    "recipe": {
+      "A1": "FISHING_ROD;1",
+      "B1": "RUSTY_COIN;16",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Challenging_Rod",
@@ -6671,8 +6960,8 @@
       "https://wiki.hypixel.net/Chrono_Pickaxe"
     ]
   },
-  "CHUM_ROD:1": {
-    "name": "§9Chum Rod",
+  "CHUM_SINKER:1": {
+    "name": "§9Chum Sinker",
     "recipe": {
       "A1": "FULL_CHUM_BUCKET;4",
       "B1": "GLOWING_MUSHROOM;15",
@@ -6684,11 +6973,7 @@
       "B3": "",
       "C3": "",
       "count": 1
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Chum_Rod",
-      "https://wiki.hypixel.net/Chum_Rod"
-    ]
+    }
   },
   "CHUMMING_TALISMAN:1": {
     "name": "§f§f§aChumming Talisman",
@@ -7882,6 +8167,20 @@
     "wiki": [
       "https://wiki.hypixel.net/Combo_Mania"
     ]
+  },
+  "COMMON_HOOK": {
+    "name": "§9Common Hook",
+    "recipe": {
+      "A1": "",
+      "B1": "",
+      "C1": "ENCHANTED_WATER_LILY;1",
+      "A2": "",
+      "B2": "",
+      "C2": "ENCHANTED_WATER_LILY;1",
+      "A3": "",
+      "B3": "ENCHANTED_RAW_FISH;1",
+      "C3": ""
+    }
   },
   "COMPACT": {
     "name": "§fEnchanted Book",
@@ -10187,6 +10486,24 @@
       "https://wiki.hypixel.net/Diamond_Sword"
     ]
   },
+  "DIAMOND_SWORD:1": {
+    "name": "§aDiamond Sword",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;50",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Diamond_Sword"
+    ]
+  },
   "DIODE": {
     "name": "§fRedstone Repeater",
     "recipe": {
@@ -11299,7 +11616,7 @@
     ]
   },
   "EMPTY_CHUMCAP_BUCKET": {
-    "name": "§aEmpty Chumcap Bucket",
+    "name": "§73x §f§aEmpty Chumcap Bucket",
     "recipe": {
       "A1": "AGARICUS_CHUM_CAP;1",
       "B1": "AGARICUS_CHUM_CAP;1",
@@ -14871,24 +15188,6 @@
       "https://wiki.hypixel.net/Farmer_Orb"
     ]
   },
-  "FARMER_ROD": {
-    "name": "§aFarmer's Rod",
-    "recipe": {
-      "A1": "",
-      "B1": "",
-      "C1": "ENCHANTED_CLAY_BALL;1",
-      "A2": "",
-      "B2": "ENCHANTED_WHEAT;1",
-      "C2": "STRING;1",
-      "A3": "ENCHANTED_WHEAT;1",
-      "B3": "",
-      "C3": "STRING;1"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Farmer%27s_Rod",
-      "https://wiki.hypixel.net/Farmer%27s_Rod"
-    ]
-  },
   "FARMING_1_PORTAL": {
     "name": "§fPortal to The Barn",
     "recipe": {
@@ -15258,6 +15557,21 @@
       "https://wiki.hypixel.net/Fermento_Leggings"
     ]
   },
+  "FESTIVE_SINKER": {
+    "name": "§9Festive Sinker",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;40000",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
   "FIERY_KUUDRA_CORE": {
     "name": "§5Fiery Kuudra Core",
     "recipe": {
@@ -15404,7 +15718,7 @@
     ]
   },
   "FINE_AQUAMARINE_GEM": {
-    "name": "§9α Fine Aquamarine Gemstone",
+    "name": "§9☂ Fine Aquamarine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FLAWED_AQUAMARINE_GEM;16",
@@ -16038,6 +16352,24 @@
       "https://wiki.hypixel.net/Fishing_Rod"
     ]
   },
+  "FISHING_ROD:1": {
+    "name": "§fFishing Rod",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;50",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Fishing_Rod"
+    ]
+  },
   "FLAME_BREAKER_BOOTS": {
     "name": "§5Flamebreaker Boots",
     "recipe": {
@@ -16110,6 +16442,20 @@
       "https://wiki.hypixel.net/Flamebreaker_Leggings"
     ]
   },
+  "FLAMING_FLAY": {
+    "name": "§6Flaming Flay",
+    "recipe": {
+      "A1": "",
+      "B1": "",
+      "C1": "BRAIDED_GRIFFIN_FEATHER;1",
+      "A2": "",
+      "B2": "SOUL_WHIP;1",
+      "C2": "HOTSPOT_WATER_ORB;1",
+      "A3": "BRIMSTONE_HANDLE;1",
+      "B3": "",
+      "C3": "LAVA_WATER_ORB;1"
+    }
+  },
   "FLAWED_AMBER_GEM": {
     "name": "§a⸕ Flawed Amber Gemstone",
     "recipe": {
@@ -16147,7 +16493,7 @@
     ]
   },
   "FLAWED_AQUAMARINE_GEM": {
-    "name": "§aα Flawed Aquamarine Gemstone",
+    "name": "§a☂ Flawed Aquamarine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "ROUGH_AQUAMARINE_GEM;16",
@@ -16363,7 +16709,7 @@
     ]
   },
   "FLAWLESS_AQUAMARINE_GEM": {
-    "name": "§5α Flawless Aquamarine Gemstone",
+    "name": "§5☂ Flawless Aquamarine Gemstone",
     "recipe": {
       "A1": "",
       "B1": "FINE_AQUAMARINE_GEM;16",
@@ -17058,6 +17404,20 @@
       "https://hypixel-skyblock.fandom.com/wiki/Freshly-Minted_Coins",
       "https://wiki.hypixel.net/Freshly-Minted_Coins"
     ]
+  },
+  "FRIED_FROZEN_CHICKEN": {
+    "name": "§5Fried Frozen Chicken",
+    "recipe": {
+      "A1": "ENCHANTED_GLACITE;64",
+      "B1": "FRIED_FEATHER;64",
+      "C1": "ENCHANTED_BLAZE_POWDER;64",
+      "A2": "FRIED_FEATHER;64",
+      "B2": "FROZEN_CHICKEN;1",
+      "C2": "FRIED_FEATHER;64",
+      "A3": "ENCHANTED_BLAZE_POWDER;64",
+      "B3": "FRIED_FEATHER;64",
+      "C3": "ENCHANTED_GLACITE;64"
+    }
   },
   "FROG_MASK:1": {
     "name": "§5Frog Mask",
@@ -18444,6 +18804,21 @@
     "wiki": [
       "https://wiki.hypixel.net/Golden_Boots"
     ]
+  },
+  "GOLD_BOTTLE_CAP:1": {
+    "name": "§6Gold Bottle Cap",
+    "recipe": {
+      "A1": "RUSTY_COIN;512",
+      "B1": "BUSTED_BELT_BUCKLE;64",
+      "C1": "OLD_LEATHER_BOOT;8",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
   },
   "GOLD_CHESTPLATE": {
     "name": "§fGolden Chestplate",
@@ -20935,6 +21310,76 @@
       "https://hypixel-skyblock.fandom.com/wiki/Hot_Potato_Book",
       "https://wiki.hypixel.net/Hot_Potato_Book"
     ]
+  },
+  "HOTSPOT_BAIT": {
+    "name": "§9Hotspot Bait",
+    "recipe": {
+      "A1": "",
+      "B1": "",
+      "C1": "",
+      "A2": "ENCHANTED_PUFFERFISH;1",
+      "B2": "SCORCHED_CRAB_STICK;1",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": ""
+    }
+  },
+  "HOTSPOT_HOOK": {
+    "name": "§9Hotspot Hook",
+    "recipe": {
+      "A1": "",
+      "B1": "",
+      "C1": "ENCHANTED_WATER_LILY;32",
+      "A2": "",
+      "B2": "",
+      "C2": "SINGED_POWDER;8",
+      "A3": "",
+      "B3": "BROKEN_RADAR;8",
+      "C3": ""
+    }
+  },
+  "HOTSPOT_RADAR": {
+    "name": "§9Hotspot Radar",
+    "recipe": {
+      "A1": "BRONZE_BOWL;1",
+      "B1": "",
+      "C1": "BRONZE_BOWL;1",
+      "A2": "REDSTONE;1",
+      "B2": "BROKEN_RADAR;1",
+      "C2": "REDSTONE;1",
+      "A3": "IRON_INGOT;1",
+      "B3": "IRON_INGOT;1",
+      "C3": "IRON_INGOT;1"
+    }
+  },
+  "HOTSPOT_SINKER": {
+    "name": "§9Hotspot Sinker",
+    "recipe": {
+      "A1": "",
+      "B1": "BROKEN_RADAR;8",
+      "C1": "",
+      "A2": "",
+      "B2": "SINGED_POWDER;8",
+      "C2": "",
+      "A3": "",
+      "B3": "ENCHANTED_CLAY_BALL;64",
+      "C3": ""
+    }
+  },
+  "HOTSPOT_WATER_ORB": {
+    "name": "§6Hotspot Water Orb",
+    "recipe": {
+      "A1": "HALF_EATEN_MUSHROOM;64",
+      "B1": "BLUE_RING;8",
+      "C1": "FRIED_FEATHER;64",
+      "A2": "SINGED_POWDER;8",
+      "B2": "WATER_ORB;1",
+      "C2": "SCORCHED_CRAB_STICK;8",
+      "A3": "ENCHANTED_JUNGLE_LOG;64",
+      "B3": "BROKEN_RADAR;8",
+      "C3": "ENCHANTED_COAL;64"
+    }
   },
   "HUB_CASTLE_TRAVEL_SCROLL": {
     "name": "§5Travel Scroll to Hub Castle",
@@ -23768,6 +24213,66 @@
       "A3": "WOOD:3;1",
       "B3": "WOOD:3;1",
       "C3": "WOOD:3;1"
+    }
+  },
+  "JUNK_ARTIFACT:1": {
+    "name": "§9Junk Artifact",
+    "recipe": {
+      "A1": "JUNK_RING;1",
+      "B1": "OLD_LEATHER_BOOT;1",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "JUNK_RING:1": {
+    "name": "§aJunk Ring",
+    "recipe": {
+      "A1": "JUNK_TALISMAN;1",
+      "B1": "BUSTED_BELT_BUCKLE;4",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "JUNK_SINKER:1": {
+    "name": "§9Junk Sinker",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;9700",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    }
+  },
+  "JUNK_TALISMAN:1": {
+    "name": "§fJunk Talisman",
+    "recipe": {
+      "A1": "RUSTY_COIN;32",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "KALHUIKI_MASK": {
@@ -28030,6 +28535,25 @@
       "A3": "",
       "B3": "",
       "C3": ""
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Minnow_Bait",
+      "https://wiki.hypixel.net/Minnow_Bait"
+    ]
+  },
+  "MINNOW_BAIT:1": {
+    "name": "§fMinnow Bait",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;15",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     },
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Minnow_Bait",
@@ -33848,23 +34372,19 @@
       "https://wiki.hypixel.net/Prismarine_Necklace"
     ]
   },
-  "PRISMARINE_ROD": {
-    "name": "§fPrismarine Rod",
+  "PRISMARINE_SINKER": {
+    "name": "§9Prismarine Sinker",
     "recipe": {
       "A1": "",
-      "B1": "",
-      "C1": "PRISMARINE_CRYSTALS;1",
+      "B1": "WATER_LILY;16",
+      "C1": "",
       "A2": "",
-      "B2": "PRISMARINE_SHARD;1",
-      "C2": "STRING;1",
-      "A3": "PRISMARINE_SHARD;1",
-      "B3": "",
-      "C3": "STRING;1"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Prismarine_Rod",
-      "https://wiki.hypixel.net/Prismarine_Rod"
-    ]
+      "B2": "PRISMARINE_CRYSTALS;8",
+      "C2": "",
+      "A3": "",
+      "B3": "PRISMARINE_SHARD;8",
+      "C3": ""
+    }
   },
   "PRISMARINE-1": {
     "name": "§fPrismarine Bricks",
@@ -34855,6 +35375,20 @@
       "A3": "QUARTZ_BLOCK;1",
       "B3": "QUARTZ_BLOCK;1",
       "C3": "QUARTZ_BLOCK;1"
+    }
+  },
+  "QUICK_BITE;1": {
+    "name": "§fEnchanted Book",
+    "recipe": {
+      "A1": "",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "ENCHANTED_PAPER;1",
+      "C2": "ENCHANTED_PAPER;1",
+      "A3": "",
+      "B3": "ENCHANTED_PAPER;1",
+      "C3": "ALLIGATOR_SKIN;8"
     }
   },
   "RABBIT_AXE": {
@@ -37600,6 +38134,20 @@
       "https://hypixel-skyblock.fandom.com/wiki/Salmon_Chestplate",
       "https://wiki.hypixel.net/Salmon_Chestplate"
     ]
+  },
+  "SALMON_HAT": {
+    "name": "§fSalmon Hat",
+    "recipe": {
+      "A1": "RAW_FISH:1;1",
+      "B1": "RAW_FISH:1;1",
+      "C1": "RAW_FISH:1;1",
+      "A2": "RAW_FISH:1;1",
+      "B2": "",
+      "C2": "RAW_FISH:1;1",
+      "A3": "RAW_FISH:1;1",
+      "B3": "RAW_FISH:1;1",
+      "C3": "RAW_FISH:1;1"
+    }
   },
   "SALMON_HELMET_NEW": {
     "name": "§9Salmon Helmet",
@@ -41379,7 +41927,7 @@
     ]
   },
   "SOUL_WHIP": {
-    "name": "§6Soul Whip",
+    "name": "§5Soul Whip",
     "recipe": {
       "A1": "",
       "B1": "",
@@ -41716,23 +42264,20 @@
       "https://wiki.hypixel.net/Speedster_Leggings"
     ]
   },
-  "SPEEDSTER_ROD": {
-    "name": "§aSpeedster Rod",
+  "SPEEDY_LINE:1": {
+    "name": "§9Speedy Line",
     "recipe": {
-      "A1": "",
+      "A1": "BUSTED_BELT_BUCKLE;8",
       "B1": "",
-      "C1": "RAW_FISH:1;32",
+      "C1": "",
       "A2": "",
-      "B2": "RAW_FISH:1;32",
-      "C2": "STRING;1",
-      "A3": "RAW_FISH:1;32",
+      "B2": "",
+      "C2": "",
+      "A3": "",
       "B3": "",
-      "C3": "STRING;1"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Speedster_Rod",
-      "https://wiki.hypixel.net/Speedster_Rod"
-    ]
+      "C3": "",
+      "count": 1
+    }
   },
   "SPIDER_ARTIFACT": {
     "name": "§5Spider Artifact",
@@ -42223,7 +42768,7 @@
     ]
   },
   "SPONGE_BOOTS": {
-    "name": "§5Spongy Shoes",
+    "name": "§5Sponge Boots",
     "recipe": {
       "A1": "",
       "B1": "",
@@ -42294,23 +42839,19 @@
       "https://wiki.hypixel.net/Sponge_Leggings"
     ]
   },
-  "SPONGE_ROD": {
-    "name": "§fSponge Rod",
+  "SPONGE_SINKER": {
+    "name": "§9Sponge Sinker",
     "recipe": {
       "A1": "",
-      "B1": "",
-      "C1": "SPONGE;1",
+      "B1": "WATER_LILY;16",
+      "C1": "",
       "A2": "",
-      "B2": "SPONGE;1",
-      "C2": "STRING;1",
-      "A3": "SPONGE;1",
-      "B3": "",
-      "C3": "STRING;1"
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Sponge_Rod",
-      "https://wiki.hypixel.net/Sponge_Rod"
-    ]
+      "B2": "SPONGE;4",
+      "C2": "",
+      "A3": "",
+      "B3": "SPONGE;4",
+      "C3": ""
+    }
   },
   "SPOOKY_BAIT": {
     "name": "§fSpooky Bait",
@@ -44431,6 +44972,21 @@
       "A3": "",
       "B3": "",
       "C3": ""
+    }
+  },
+  "STINGY_SINKER:1": {
+    "name": "§9Stingy Sinker",
+    "recipe": {
+      "A1": "RUSTY_COIN;64",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "STONE_AXE": {
@@ -46906,6 +47462,20 @@
       "https://wiki.hypixel.net/Remmah_Ynit"
     ]
   },
+  "TITAN_LINE": {
+    "name": "§9Titan Line",
+    "recipe": {
+      "A1": "",
+      "B1": "",
+      "C1": "RUSTY_COIN;64",
+      "A2": "",
+      "B2": "BAYOU_WATER_ORB;1",
+      "C2": "",
+      "A3": "TITANOBOA_SHED;1",
+      "B3": "",
+      "C3": ""
+    }
+  },
   "TITANIC_EXP_BOTTLE": {
     "name": "§9Titanic Experience Bottle",
     "recipe": {
@@ -47169,6 +47739,21 @@
       "https://wiki.hypixel.net/Treasure_Artifact"
     ]
   },
+  "TREASURE_BAIT:16": {
+    "name": "§9Treasure Bait §8x16",
+    "recipe": {
+      "A1": "RUSTY_COIN;1",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 16
+    }
+  },
   "TREASURE_RING": {
     "name": "§f§f§5Treasure Ring",
     "recipe": {
@@ -47368,15 +47953,15 @@
   "ULTIMATE_BOBBIN_TIME;3": {
     "name": "§fEnchanted Book",
     "recipe": {
-      "A1": "",
-      "B1": "SHARK_WATER_ORB;1",
-      "C1": "",
-      "A2": "SPOOKY_WATER_ORB;1",
+      "A1": "BAYOU_WATER_ORB;1",
+      "B1": "WINTER_WATER_ORB;1",
+      "C1": "SPOOKY_WATER_ORB;1",
+      "A2": "",
       "B2": "BOBBIN_SCRIPTURES;1",
-      "C2": "WINTER_WATER_ORB;1",
-      "A3": "",
-      "B3": "LAVA_WATER_ORB;1",
-      "C3": ""
+      "C2": "",
+      "A3": "SHARK_WATER_ORB;1",
+      "B3": "HOTSPOT_WATER_ORB;1",
+      "C3": "LAVA_WATER_ORB;1"
     }
   },
   "ULTIMATE_CARROT_CANDY": {
@@ -47446,6 +48031,20 @@
       "B3": "",
       "C3": "",
       "count": 1
+    }
+  },
+  "UMBERELLA": {
+    "name": "§9Umberella",
+    "recipe": {
+      "A1": "REFINED_UMBER;2",
+      "B1": "REFINED_UMBER;2",
+      "C1": "REFINED_UMBER;2",
+      "A2": "",
+      "B2": "STICK;1",
+      "C2": "",
+      "A3": "",
+      "B3": "STICK;1",
+      "C3": ""
     }
   },
   "UNDEAD_BOW": {
@@ -49098,25 +49697,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Winter_Fragment",
       "https://wiki.hypixel.net/Winter_Fragment"
-    ]
-  },
-  "WINTER_ROD": {
-    "name": "§9Winter Rod",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;40000",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Winter_Rod",
-      "https://wiki.hypixel.net/Winter_Rod"
     ]
   },
   "WINTER_WATER_ORB": {
