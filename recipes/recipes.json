@@ -1791,24 +1791,6 @@
       "https://wiki.hypixel.net/Atomsplit_Katana"
     ]
   },
-  "AUGER_ROD": {
-    "name": "§6Auger Rod",
-    "recipe": {
-      "A1": "",
-      "B1": "ENCHANTED_PACKED_ICE;32",
-      "C1": "",
-      "A2": "ENCHANTED_PACKED_ICE;32",
-      "B2": "YETI_ROD;1",
-      "C2": "ENCHANTED_PACKED_ICE;32",
-      "A3": "",
-      "B3": "ENCHANTED_PACKED_ICE;32",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Auger_Rod",
-      "https://wiki.hypixel.net/Auger_Rod"
-    ]
-  },
   "AUTO_SMELTER": {
     "name": "§fAuto Smelter",
     "recipe": {
@@ -47752,6 +47734,21 @@
       "B3": "",
       "C3": "",
       "count": 16
+    }
+  },
+  "TREASURE_HOOK:1": {
+    "name": "§9Treasure Hook",
+    "recipe": {
+      "A1": "BAYOU_WATER_ORB;1",
+      "B1": "RUSTY_COIN;256",
+      "C1": "BUSTED_BELT_BUCKLE;32",
+      "A2": "OLD_LEATHER_BOOT;4",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
     }
   },
   "TREASURE_RING": {
