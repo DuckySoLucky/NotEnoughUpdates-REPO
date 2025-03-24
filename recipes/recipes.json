@@ -38049,7 +38049,7 @@
     ]
   },
   "RUSTY_TITANIUM_PICKAXE": {
-    "name": "§aRusty Titanium Pickaxe §8x1",
+    "name": "§aRusty Titanium Pickaxe",
     "recipe": {
       "A1": "SKYBLOCK_COIN;50000",
       "B1": "",
