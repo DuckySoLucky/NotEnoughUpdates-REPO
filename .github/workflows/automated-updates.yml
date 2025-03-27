@@ -9,7 +9,7 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
 
-    if: ${{ github.repository_id == '247692460' }}
+    if: ${{ github.repository_id == '928022928' }}
 
     steps:
       - name: Checkout repository
