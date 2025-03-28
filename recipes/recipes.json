@@ -1024,7 +1024,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Angler_Belt"
+    ]
   },
   "ANGLER_BOOTS:1": {
     "name": "§fAngler Boots",
@@ -1058,7 +1061,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Angler_Bracelet"
+    ]
   },
   "ANGLER_CHESTPLATE:1": {
     "name": "§fAngler Chestplate",
@@ -1092,7 +1098,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Angler_Cloak"
+    ]
   },
   "ANGLER_HELMET:1": {
     "name": "§fAngler Helmet",
@@ -1145,7 +1154,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Angler_Necklace"
+    ]
   },
   "ANITA_ARTIFACT": {
     "name": "§9Anita's Artifact",
@@ -1897,7 +1909,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Backwater_Belt"
+    ]
   },
   "BACKWATER_BOOTS:1": {
     "name": "§aBackwater Boots",
@@ -1912,7 +1927,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Backwater_Boots"
+    ]
   },
   "BACKWATER_CHESTPLATE:1": {
     "name": "§aBackwater Chestplate",
@@ -1927,7 +1945,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Backwater_Chestplate"
+    ]
   },
   "BACKWATER_CLOAK:1": {
     "name": "§aBackwater Cloak",
@@ -1942,7 +1963,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Backwater_Cloak"
+    ]
   },
   "BACKWATER_GLOVES:1": {
     "name": "§aBackwater Gloves",
@@ -1957,7 +1981,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Backwater_Gloves"
+    ]
   },
   "BACKWATER_HELMET:1": {
     "name": "§aBackwater Helmet",
@@ -1972,7 +1999,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Backwater_Helmet"
+    ]
   },
   "BACKWATER_LEGGINGS:1": {
     "name": "§aBackwater Leggings",
@@ -1987,7 +2017,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Backwater_Leggings"
+    ]
   },
   "BACKWATER_NECKLACE:1": {
     "name": "§aBackwater Necklace",
@@ -2002,7 +2035,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Backwater_Necklace"
+    ]
   },
   "BAIT_RING": {
     "name": "§9Bait Ring",
@@ -2705,7 +2741,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Travel_Scroll_To_The_Bayou"
+    ]
   },
   "BAYOU_WATER_ORB": {
     "name": "§6Bayou Water Orb",
@@ -2719,7 +2758,10 @@
       "A3": "ENCHANTED_CLAY_BLOCK;1",
       "B3": "RUSTY_COIN;64",
       "C3": "POISON_SAMPLE;1"
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Bayou_Water_Orb"
+    ]
   },
   "BEACON_1": {
     "name": "§9Beacon I",
@@ -4154,7 +4196,10 @@
       "A3": "BLUE_RING;32",
       "B3": "GOBLIN_EGG_BLUE;1",
       "C3": "BLUE_RING;32"
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Bluertooth_Ring"
+    ]
   },
   "BLUETOOTH_RING": {
     "name": "§9Bluetooth Ring",
@@ -4623,7 +4668,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Bronze_Ship_Engine"
+    ]
   },
   "BRONZE_SHIP_HELM": {
     "name": "§9Bronze Ship Helm",
@@ -4637,7 +4685,10 @@
       "A3": "",
       "B3": "BRONZE_BOWL;1",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Bronze_Ship_Helm"
+    ]
   },
   "BRONZE_SHIP_HULL": {
     "name": "§9Bronze Ship Hull",
@@ -4651,7 +4702,10 @@
       "A3": "BRONZE_BOWL;1",
       "B3": "BRONZE_BOWL;1",
       "C3": "BRONZE_BOWL;1"
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Bronze_Ship_Hull"
+    ]
   },
   "BRONZE_TROPHY_FISHING_SACK:1.0": {
     "name": "§aBronze Trophy Fishing Sack",
@@ -6955,7 +7009,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Chum_Sinker",
+      "https://wiki.hypixel.net/Chum_Sinker"
+    ]
   },
   "CHUMMING_TALISMAN:1": {
     "name": "§f§f§aChumming Talisman",
@@ -8162,7 +8220,11 @@
       "A3": "",
       "B3": "ENCHANTED_RAW_FISH;1",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Common_Hook",
+      "https://wiki.hypixel.net/Common_Hook"
+    ]
   },
   "COMPACT": {
     "name": "§fEnchanted Book",
@@ -15552,7 +15614,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Festive_Sinker",
+      "https://wiki.hypixel.net/Festive_Sinker"
+    ]
   },
   "FIERY_KUUDRA_CORE": {
     "name": "§5Fiery Kuudra Core",
@@ -16436,7 +16502,11 @@
       "A3": "BRIMSTONE_HANDLE;1",
       "B3": "",
       "C3": "LAVA_WATER_ORB;1"
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Flaming_Flay",
+      "https://wiki.hypixel.net/Flaming_Flay"
+    ]
   },
   "FLAWED_AMBER_GEM": {
     "name": "§a⸕ Flawed Amber Gemstone",
@@ -17399,7 +17469,10 @@
       "A3": "ENCHANTED_BLAZE_POWDER;64",
       "B3": "FRIED_FEATHER;64",
       "C3": "ENCHANTED_GLACITE;64"
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Fried_Frozen_Chicken"
+    ]
   },
   "FROG_MASK:1": {
     "name": "§5Frog Mask",
@@ -18800,7 +18873,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Gold_Bottle_Cap"
+    ]
   },
   "GOLD_CHESTPLATE": {
     "name": "§fGolden Chestplate",
@@ -21305,7 +21381,11 @@
       "A3": "",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Hotspot_Bait",
+      "https://wiki.hypixel.net/Hotspot_Bait"
+    ]
   },
   "HOTSPOT_HOOK": {
     "name": "§9Hotspot Hook",
@@ -21319,7 +21399,11 @@
       "A3": "",
       "B3": "BROKEN_RADAR;8",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Hotspot_Hook",
+      "https://wiki.hypixel.net/Hotspot_Hook"
+    ]
   },
   "HOTSPOT_RADAR": {
     "name": "§9Hotspot Radar",
@@ -21333,7 +21417,10 @@
       "A3": "IRON_INGOT;1",
       "B3": "IRON_INGOT;1",
       "C3": "IRON_INGOT;1"
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Hotspot_Radar"
+    ]
   },
   "HOTSPOT_SINKER": {
     "name": "§9Hotspot Sinker",
@@ -21347,7 +21434,11 @@
       "A3": "",
       "B3": "ENCHANTED_CLAY_BALL;64",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Hotspot_Sinker",
+      "https://wiki.hypixel.net/Hotspot_Sinker"
+    ]
   },
   "HOTSPOT_WATER_ORB": {
     "name": "§6Hotspot Water Orb",
@@ -21361,7 +21452,10 @@
       "A3": "ENCHANTED_JUNGLE_LOG;64",
       "B3": "BROKEN_RADAR;8",
       "C3": "ENCHANTED_COAL;64"
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Hotspot_Water_Orb"
+    ]
   },
   "HUB_CASTLE_TRAVEL_SCROLL": {
     "name": "§5Travel Scroll to Hub Castle",
@@ -24210,7 +24304,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Junk_Artifact"
+    ]
   },
   "JUNK_RING:1": {
     "name": "§aJunk Ring",
@@ -24225,7 +24322,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Junk_Ring"
+    ]
   },
   "JUNK_SINKER:1": {
     "name": "§9Junk Sinker",
@@ -24240,7 +24340,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Junk_Sinker",
+      "https://wiki.hypixel.net/Junk_Sinker"
+    ]
   },
   "JUNK_TALISMAN:1": {
     "name": "§fJunk Talisman",
@@ -24255,7 +24359,10 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Junk_Talisman"
+    ]
   },
   "KALHUIKI_MASK": {
     "name": "§fKalhuiki Mask",
@@ -34366,7 +34473,11 @@
       "A3": "",
       "B3": "PRISMARINE_SHARD;8",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Prismarine_Sinker",
+      "https://wiki.hypixel.net/Prismarine_Sinker"
+    ]
   },
   "PRISMARINE-1": {
     "name": "§fPrismarine Bricks",
@@ -38061,7 +38172,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Rusty_Titanium_Pickaxe",
+      "https://wiki.hypixel.net/Rusty_Titanium_Pickaxe"
+    ]
   },
   "S_LOGO_CHESTPLATE": {
     "name": "§dW Logo",
@@ -38129,7 +38244,11 @@
       "A3": "RAW_FISH:1;1",
       "B3": "RAW_FISH:1;1",
       "C3": "RAW_FISH:1;1"
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Salmon_Hat",
+      "https://wiki.hypixel.net/Salmon_Hat"
+    ]
   },
   "SALMON_HELMET_NEW": {
     "name": "§9Salmon Helmet",
@@ -42259,7 +42378,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Speedy_Line",
+      "https://wiki.hypixel.net/Speedy_Line"
+    ]
   },
   "SPIDER_ARTIFACT": {
     "name": "§5Spider Artifact",
@@ -42833,7 +42956,11 @@
       "A3": "",
       "B3": "SPONGE;4",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Sponge_Sinker",
+      "https://wiki.hypixel.net/Sponge_Sinker"
+    ]
   },
   "SPOOKY_BAIT": {
     "name": "§fSpooky Bait",
@@ -44969,7 +45096,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Stingy_Sinker",
+      "https://wiki.hypixel.net/Stingy_Sinker"
+    ]
   },
   "STONE_AXE": {
     "name": "§fStone Axe",
@@ -47456,7 +47587,11 @@
       "A3": "TITANOBOA_SHED;1",
       "B3": "",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Titan_Line",
+      "https://wiki.hypixel.net/Titan_Line"
+    ]
   },
   "TITANIC_EXP_BOTTLE": {
     "name": "§9Titanic Experience Bottle",
@@ -47749,7 +47884,11 @@
       "B3": "",
       "C3": "",
       "count": 1
-    }
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Treasure_Hook",
+      "https://wiki.hypixel.net/Treasure_Hook"
+    ]
   },
   "TREASURE_RING": {
     "name": "§f§f§5Treasure Ring",
@@ -48042,7 +48181,10 @@
       "A3": "",
       "B3": "STICK;1",
       "C3": ""
-    }
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Umberella"
+    ]
   },
   "UNDEAD_BOW": {
     "name": "§9Undead Bow",
