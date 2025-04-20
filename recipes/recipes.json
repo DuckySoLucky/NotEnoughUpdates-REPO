@@ -1011,6 +1011,24 @@
       "https://wiki.hypixel.net/Ancient_Cloak"
     ]
   },
+  "ANGLER_BELT": {
+    "name": "§fAngler Belt",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Angler_Belt"
+    ]
+  },
   "ANGLER_BELT:1": {
     "name": "§fAngler Belt",
     "recipe": {
@@ -1027,6 +1045,25 @@
     },
     "wiki": [
       "https://wiki.hypixel.net/Angler_Belt"
+    ]
+  },
+  "ANGLER_BOOTS": {
+    "name": "§fAngler Boots",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Boots",
+      "https://wiki.hypixel.net/Angler_Boots"
     ]
   },
   "ANGLER_BOOTS:1": {
@@ -1048,6 +1085,24 @@
       "https://wiki.hypixel.net/Angler_Boots"
     ]
   },
+  "ANGLER_BRACELET": {
+    "name": "§fAngler Bracelet",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Angler_Bracelet"
+    ]
+  },
   "ANGLER_BRACELET:1": {
     "name": "§fAngler Bracelet",
     "recipe": {
@@ -1064,6 +1119,25 @@
     },
     "wiki": [
       "https://wiki.hypixel.net/Angler_Bracelet"
+    ]
+  },
+  "ANGLER_CHESTPLATE": {
+    "name": "§fAngler Chestplate",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Chestplate",
+      "https://wiki.hypixel.net/Angler_Chestplate"
     ]
   },
   "ANGLER_CHESTPLATE:1": {
@@ -1085,6 +1159,24 @@
       "https://wiki.hypixel.net/Angler_Chestplate"
     ]
   },
+  "ANGLER_CLOAK": {
+    "name": "§fAngler Cloak",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Angler_Cloak"
+    ]
+  },
   "ANGLER_CLOAK:1": {
     "name": "§fAngler Cloak",
     "recipe": {
@@ -1101,6 +1193,25 @@
     },
     "wiki": [
       "https://wiki.hypixel.net/Angler_Cloak"
+    ]
+  },
+  "ANGLER_HELMET": {
+    "name": "§fAngler Helmet",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Helmet",
+      "https://wiki.hypixel.net/Angler_Helmet"
     ]
   },
   "ANGLER_HELMET:1": {
@@ -1122,6 +1233,25 @@
       "https://wiki.hypixel.net/Angler_Helmet"
     ]
   },
+  "ANGLER_LEGGINGS": {
+    "name": "§fAngler Leggings",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://hypixel-skyblock.fandom.com/wiki/Angler_Leggings",
+      "https://wiki.hypixel.net/Angler_Leggings"
+    ]
+  },
   "ANGLER_LEGGINGS:1": {
     "name": "§fAngler Leggings",
     "recipe": {
@@ -1139,6 +1269,24 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Angler_Leggings",
       "https://wiki.hypixel.net/Angler_Leggings"
+    ]
+  },
+  "ANGLER_NECKLACE": {
+    "name": "§fAngler Necklace",
+    "recipe": {
+      "A1": "SKYBLOCK_COIN;100",
+      "B1": "",
+      "C1": "",
+      "A2": "",
+      "B2": "",
+      "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    "wiki": [
+      "https://wiki.hypixel.net/Angler_Necklace"
     ]
   },
   "ANGLER_NECKLACE:1": {
@@ -36017,81 +36165,6 @@
     "wiki": [
       "https://hypixel-skyblock.fandom.com/wiki/Rancher%27s_Boots",
       "https://wiki.hypixel.net/Rancher%27s_Boots"
-    ]
-  },
-  "RAW_FISH": {
-    "name": "§fRaw Fish",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;20",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://wiki.hypixel.net/Raw_Fish"
-    ]
-  },
-  "RAW_FISH-1": {
-    "name": "§fRaw Salmon",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;30",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Raw_Salmon",
-      "https://wiki.hypixel.net/Raw_Salmon"
-    ]
-  },
-  "RAW_FISH-2": {
-    "name": "§fClownfish",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;100",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Clownfish",
-      "https://wiki.hypixel.net/Clownfish"
-    ]
-  },
-  "RAW_FISH-3": {
-    "name": "§fPufferfish",
-    "recipe": {
-      "A1": "SKYBLOCK_COIN;40",
-      "B1": "",
-      "C1": "",
-      "A2": "",
-      "B2": "",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": "",
-      "count": 1
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Pufferfish",
-      "https://wiki.hypixel.net/Pufferfish"
     ]
   },
   "RAZOR_SHARP_SHARK_TOOTH_NECKLACE": {
