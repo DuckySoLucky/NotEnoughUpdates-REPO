@@ -11808,7 +11808,7 @@
     ]
   },
   "EMPTY_CHUMCAP_BUCKET": {
-    "name": "§73x §f§aEmpty Chumcap Bucket",
+    "name": "§aEmpty Chumcap Bucket",
     "recipe": {
       "A1": "AGARICUS_CHUM_CAP;1",
       "B1": "AGARICUS_CHUM_CAP;1",
