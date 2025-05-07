@@ -49311,24 +49311,6 @@
       "https://wiki.hypixel.net/Warm_Wizard_Face"
     ]
   },
-  "WARM_WIZARD_FACE_2": {
-    "name": "§dWarmer Wizard Face",
-    "recipe": {
-      "A1": "",
-      "B1": "WIZARD_FACE;1",
-      "C1": "",
-      "A2": "",
-      "B2": "ANTI_BITE_SCARF_2;1",
-      "C2": "",
-      "A3": "",
-      "B3": "",
-      "C3": ""
-    },
-    "wiki": [
-      "https://hypixel-skyblock.fandom.com/wiki/Warmer_Wizard_Face",
-      "https://wiki.hypixel.net/Warmer_Wizard_Face"
-    ]
-  },
   "WARNING_FLARE": {
     "name": "§aWarning Flare",
     "recipe": {
