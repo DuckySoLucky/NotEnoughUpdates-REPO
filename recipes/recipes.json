@@ -51687,7 +51687,7 @@
     ]
   },
   "ZOMBIE;4": {
-    "name": "§f§f§7[Lvl {LVL}] §6Zombie",
+    "name": "§7[Lvl {LVL}] §6Zombie",
     "recipe": {
       "A1": "ENCHANTED_ROTTEN_FLESH;16",
       "B1": "ENCHANTED_ROTTEN_FLESH;16",
